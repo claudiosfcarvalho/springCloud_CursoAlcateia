@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: claudio
+Build-Jdk: 15.0.1
+Implementation-Title: ms-communication-gateway
+Implementation-Version: 1.0.0.-SNAPSHOT
+Implementation-Vendor-Id: com.br.ms.communication
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-cloud/ms-communica
+ tion-gateway
+Created-By: Maven Integration for Eclipse
+
